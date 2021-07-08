@@ -8,7 +8,7 @@ As always, it was beatiful and well balanced... until my heart suddenly started 
 
 This is what I tweeted shortly after:
 
-https://twitter.com/trumbitta/status/469399930738835456
+%[https://twitter.com/trumbitta/status/469399930738835456]
 
 # Challenge accepted
 
