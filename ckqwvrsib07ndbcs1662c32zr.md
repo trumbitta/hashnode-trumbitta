@@ -1,5 +1,7 @@
 ## Nx: sharing code between applications
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 In [the previous post of this series](https://trumbitta.hashnode.dev/baking-a-backend-service-with-nx) you learned how quick and easy it is to add a backend application (well, any kind of application, actually) to a Nx workspace.
 
 Let's do something with it.
