@@ -1,5 +1,7 @@
 ## Stressful and convoluted
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 Modern web development is a complex affair: bundling, linting, tests, design systems, TypeScript, Babel, production builds… woah, give me a break! I’m trying to ship features here!
 
 I’m sorry but there’s more: now you have to fetch data from a web service, but the backend devs are using data models that are slightly different from what you are using in the frontend app and nobody is really sure why but you have to refactor your code to account for the differences… oof.
