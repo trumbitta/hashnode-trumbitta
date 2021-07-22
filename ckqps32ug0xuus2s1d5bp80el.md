@@ -1,5 +1,7 @@
 ## Nx: beyond serving
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 In [the previous post of this series](https://trumbitta.hashnode.dev/create-and-serve-your-first-nx-app) you learned how to create a new Nx workspace with a React app in it, then serve it for local development with HMR 🎉.
 
 This is good for experiments, but if you intend to actually ship what you are creating you'll also need to lint it, test it, and finally have a build that's optimized for production.
