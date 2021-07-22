@@ -316,6 +316,18 @@ But you can also add configurations, and file replacements, so that you can also
 
 How amazing is that? ✨
 
+## Bonus: fix the test
+
+We just broke the test again!
+
+To fix it, open `apps/frontend/src/app/app.spec.tsx` and change the expectation into:
+
+```ts
+    expect(
+      getByText('Welcome to the tentative Giant Robot Fair!')
+    ).toBeTruthy();
+```
+
 ## Wrapping up
 
 This time you learned how to lint, test, and build a project with Nx, and you also made your acquaintance with some powerful concepts like configurations, file replacements, and environments.
