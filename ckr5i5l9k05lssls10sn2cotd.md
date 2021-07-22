@@ -1,5 +1,7 @@
 ## Why is Nx so powerful and different?
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 If you are following  [this series about Nx](https://trumbitta.hashnode.dev/series/nx), you learned among other things how to share code between apps and libs.
 
 Now you are going to learn how Nx keeps track of the relationships between those apps and libs, and which amazing features and tools that enables.
