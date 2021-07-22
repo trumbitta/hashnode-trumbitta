@@ -1,5 +1,7 @@
 ## Baking a backend service with Nx
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 In [the previous posts of this series](https://trumbitta.hashnode.dev/series/nx) you learned how to create a new Nx workspace with a React app, how to serve the app for local development, and how to lint it, test it, and build it for production.
 
 But Nx workspaces are monorepos, meaning it's not only possible but even encouraged to have both your frontend and your backend (and more) in the same workspace.
