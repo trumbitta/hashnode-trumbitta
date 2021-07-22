@@ -1,5 +1,7 @@
 ## Create and serve your first Nx app
 
+>💡 **Heads up!** You can find the code for every article in this series on GitHub, with a tag per article: https://github.com/trumbitta/giant-robots/tags
+
 ## What you'll need
 
 * Your favorite code editor: Visual Studio Code, WebStorm, ...
